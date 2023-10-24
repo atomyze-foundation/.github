@@ -17,7 +17,6 @@ The Atomize blockchain platform enables businesses to secure financing more easi
   - [Useful resources](#-useful-resources)
   - [News](#-news)
 
-
 ## Our Mission
 
 We are building the infrastructure for new economic relationships based on digital rights. Our goal is to:
