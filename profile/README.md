@@ -4,16 +4,18 @@ The Atomize blockchain platform enables businesses to secure financing more easi
 
 ## TOC
 
-- [Atomize Blockchain Platform](#atomize-blockchain-platform)
-  - [TOC](#toc)
-  - [Our Mission](#our-mission)
-  - [Why Atomize](#why-atomize)
-  - [360º Expertise](#360º-expertise)
-  - [Flexibility and Product Variety](#flexibility-and-product-variety)
-  - [Resilient and Secure Infrastructure](#resilient-and-secure-infrastructure)
-  - [Our Team](#our-team)
-  - [Contribution guidelines](#contribution-guidelines)
-  - [Useful resources](#useful-resources)
+- [Atomize Blockchain Platform](#-atomize-blockchain-platform)
+  - [TOC](#-toc)
+  - [Our Mission](#-our-mission)
+  - [Why Atomize](#-why-atomize)
+  - [360º Expertise](#-360º-expertise)
+  - [Flexibility and Product Variety](#-flexibility-and-product-variety)
+  - [Resilient and Secure Infrastructure](#-resilient-and-secure-infrastructure)
+  - [Our Team](#-our-team)
+  - [Roadmap](#-roadmap)
+  - [Contribution guidelines](#-contribution-guidelines)
+  - [Useful resources](#-useful-resources)
+  - [News](#-news)
 
 
 ## Our Mission
@@ -49,10 +51,18 @@ The Atomize platform complies with the highest security standards and regulator 
 
 We are innovators with a background in business. We combine visionary thinking with expertise in IT, technology, finance, investments, and risk management. We bring best practices to the Digital Financial Assets market.
 
+## Roadmap
+
+TODO
+
 ## Contribution guidelines
 
 TODO
 
 ## Useful resources
+
+* [ATOMYZE](https://atomyze.ru/)
+
+## News
 
 TODO
