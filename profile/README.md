@@ -16,6 +16,7 @@ The Atomyze blockchain platform enables businesses to secure financing more easi
   - [Contribution guidelines](#contribution-guidelines)
   - [Useful resources](#useful-resources)
   - [News](#news)
+  - [License](#license)
 
 ## Our Mission
 
@@ -65,3 +66,7 @@ TODO
 ## News
 
 TODO
+
+## License
+
+[Default atomyze license](LICENSE)
