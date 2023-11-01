@@ -4,19 +4,17 @@ The Atomyze blockchain platform enables businesses to secure financing more easi
 
 ## TOC
 
-- [Atomyze Blockchain Platform](#atomyze-blockchain-platform)
-  - [TOC](#toc)
-  - [Our Mission](#our-mission)
-  - [Why Atomyze](#why-atomyze)
-  - [360º Expertise](#360º-expertise)
-  - [Flexibility and Product Variety](#flexibility-and-product-variety)
-  - [Resilient and Secure Infrastructure](#resilient-and-secure-infrastructure)
-  - [Our Team](#our-team)
-  - [Roadmap](#roadmap)
-  - [Contribution guidelines](#contribution-guidelines)
-  - [Useful resources](#useful-resources)
-  - [News](#news)
-  - [License](#license)
+- [Atomyze Blockchain Platform](#-atomyze-blockchain-platform)
+  - [TOC](#-toc)
+  - [Our Mission](#-our-mission)
+  - [Why Atomyze](#-why-atomyze)
+  - [360º Expertise](#-360º-expertise)
+  - [Flexibility and Product Variety](#-flexibility-and-product-variety)
+  - [Resilient and Secure Infrastructure](#-resilient-and-secure-infrastructure)
+  - [Our Team](#-our-team)
+  - [Useful resources](#-useful-resources)
+  - [News](#-news)
+  - [License](#-license)
 
 ## Our Mission
 
@@ -50,14 +48,14 @@ The Atomyze platform complies with the highest security standards and regulator 
 ## Our Team
 
 We are innovators with a background in business. We combine visionary thinking with expertise in IT, technology, finance, investments, and risk management. We bring best practices to the Digital Financial Assets market.
-
+<!-- 
 ## Roadmap
 
-TODO
+TODO -->
 
-## Contribution guidelines
+<!-- ## Contribution guidelines
 
-TODO
+TODO -->
 
 ## Useful resources
 
@@ -65,7 +63,7 @@ TODO
 
 ## News
 
-TODO
+* 2023/11/01 Release of Key Libraries to Open Source
 
 ## License
 
