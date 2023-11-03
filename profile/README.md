@@ -63,7 +63,8 @@ TODO -->
 
 ## News
 
-* 2023/11/01 Release of Key Libraries to Open Source
+* 2023/11/03 Release of key services and tools to Open Source
+* 2023/11/01 Release of key libraries to Open Source
 
 ## License
 
